@@ -6,23 +6,23 @@ const textoResultado = document.querySelector(".texto-resultado");
 
 const perguntas = [
   {
-    enunciado: "Pergunta 1",
-    alternativas: ["Alternativa 1", "Alternativa 2"],
+    enunciado: "Qual destes planetas pertencem ao Sistema Solar",
+    alternativas: ["Apenas Marte", "Marte e Saturno"],
   },
   {
-    enunciado: "Pergunta 2",
-    alternativas: ["Alternativa 1", "Alternativa 2"],
+    enunciado: "Quais desses alimentos são fontes de proteina?",
+    alternativas: ["Apenas ovos", "Ovos e Feijão"],
   },
   {
-    enunciado: "Pergunta 3",
-    alternativas: ["Alternativa 1", "Alternativa 2"],
+    enunciado: "Qual desses Paises falam Português",
+    alternativas: ["Brasil e Portugal", "Apenas Brasil"],
   },
   {
-    enunciado: "Pergunta 4",
-    alternativas: ["Alternativa 1", "Alternativa 2"],
+    enunciado: "Qual dessas substâncias são compostas por âtomos",
+    alternativas: ["Apenas Àgua(H2O)", "Àgua(H2O) e Oxigênio(O2)"],
   },
   {
-    enunciado: "Pergunta 5",
-    alternativas: ["Alternativa 1", "Alternativa 2"],
+    enunciado: "Quais destes animais são mamiferos?",
+    alternativas: ["Apenas Golfinho", "Golfinho e Morcego"],
   },
 ];
