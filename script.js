@@ -32,5 +32,8 @@ function mostraPergunta() {
   perguntaAtual = perguntas[atual];
   caixaPerguntas.textContent = perguntaAtual.enunciado;
 }
-function mostraAlternativas() {}
+function mostraAlternativas() {
+  for (const alternativa of perguntaAtual.alternativas) {
+  }
+}
 mostraPergunta();
