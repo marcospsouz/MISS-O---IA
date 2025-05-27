@@ -6,7 +6,7 @@ const textoResultado = document.querySelector(".texto-resultado");
 
 const perguntas = [
   {
-    enunciado: "Qual destes planetas pertencem ao Sistema Solar",
+    enunciado: "Qual destes planetas pertencem ao Sistema Solar?",
     alternativas: ["Apenas Marte", "Marte e Saturno"],
   },
   {
